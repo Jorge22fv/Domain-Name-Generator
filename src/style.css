@@ -1,1 +1,5 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.imagen {
+  display: flex;
+  justify-content: center;
+}
